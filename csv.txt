@@ -1,0 +1,5 @@
+ der Aufbau > csv.txt
+echo Der Aufbau
+Die erste Zeile gibt den Aufbau der unteren an
+sie sagt an welcher stelle was steht
+es ist alles gleich in den unteren Zeilen außer die Uhrzeit/Temperatur/Messwerte
